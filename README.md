@@ -1,6 +1,6 @@
 # 蓝牙快速配置助手  
 ---------  
-本程序可以用来快速配置蓝牙模块，即使不知道模块的波特率。  
+本程序可以用来快速配置蓝牙模块，即使不知道模块的波特率。  <br />
 本项目 github 地址： <https://github.com/JamesMurrayBIT/BluetoothFastConfig>  
 ---------  
 帮助：  
@@ -9,5 +9,5 @@
 * 主模块不能配置名字（配置主模块名字会失败）但不影响模块正常使用。  
 ---------  
 运行截图：  
-[id]: https://github.com/JamesMurrayBIT/BluetoothFastConfig/blob/master/shot.png?raw=true  "running"
+![](https://github.com/JamesMurrayBIT/BluetoothFastConfig/blob/master/shot.png?raw=true)
 
